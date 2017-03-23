@@ -29,3 +29,16 @@ På de to dagene vil vi bruke følgende utstyr/programmvare:
 * [Micro:Bit PXT](https://pxt.microbit.org/?lang=no)
 
 Alle deltagere og frivillige på kurset vil få dette til odel og eie.
+
+## Oppgaver
+
+* Micro:Bit
+  - [Hei](microbit/hello.md)
+  - [Myntkast](microbit/coin-toss.md)
+  - [Tempratur](microbit/tempratur.md)
+  - [Kompass](microbit/compass.md)
+  - [Ildflue](microbit/firefly.md)
+
+* Bit:Bot
+  - [Bygging](bitbot/assembly.md)
+  - [Motorstyring](bitbot/motor.md)
