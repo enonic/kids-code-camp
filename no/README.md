@@ -34,10 +34,9 @@ Alle deltagere og frivillige på kurset vil få dette til odel og eie.
 
 * Micro:Bit
   - [Hei](microbit/hello/index.md)
-  - [Myntkast](microbit/coin-toss.md)
-  - [Tempratur](microbit/tempratur.md)
-  - [Kompass](microbit/compass.md)
-  - [Ildflue](microbit/firefly.md)
+  - [Kompass](microbit/compass/index.md)
+  - [Myntkast](microbit/coin-toss/index.md)
+  - [Ildflue](microbit/firefly/index.md)
 
 * Bit:Bot
   - [Bygging](bitbot/assembly.md)
