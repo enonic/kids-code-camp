@@ -8,11 +8,11 @@ starter.
 
 ![Kode](block-1.png)
 
-La oss endre denne ved at man skriver `Hei!` bare når venstre knapp er
-trykket.
+La oss endre denne ved at man skriver `Hei!` bare når venstre knapp (knapp `A`)
+er trykket.
 
 ![Kode](block-2.png)
 
-... snake ...
+Gjør det samme, men bare når man rister på MicroBit'en.
 
 ![Kode](block-3.png)
