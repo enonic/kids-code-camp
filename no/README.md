@@ -33,7 +33,7 @@ Alle deltagere og frivillige på kurset vil få dette til odel og eie.
 ## Oppgaver
 
 * Micro:Bit
-  - [Hei](microbit/hello.md)
+  - [Hei](microbit/hello/index.md)
   - [Myntkast](microbit/coin-toss.md)
   - [Tempratur](microbit/tempratur.md)
   - [Kompass](microbit/compass.md)
@@ -46,4 +46,3 @@ Alle deltagere og frivillige på kurset vil få dette til odel og eie.
   - Følge linje...
   - Følge lys...
   - Stoppe ved hinder...
-  
