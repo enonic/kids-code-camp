@@ -1,5 +1,6 @@
 # Oppgave: Kompass
 
+![Kode](compass.png)
 ![Kode](block-1.png)
 ![Kode](block-2.png)
 ![Kode](block-3.png)
