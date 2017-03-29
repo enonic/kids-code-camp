@@ -36,7 +36,7 @@ Alle deltagere og frivillige på kurset vil få dette til odel og eie.
   - [Hei](microbit/hello/index.md)
   - [Kompass](microbit/compass/index.md)
   - [Myntkast](microbit/coin-toss/index.md)
-  - [Ildflue](microbit/firefly/index.md)
+  - [Radio](microbit/radio/index.md)
 
 * Bit:Bot
   - [Bygging](bitbot/assembly.md)
