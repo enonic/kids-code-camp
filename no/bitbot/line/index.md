@@ -19,4 +19,7 @@
 
 Her finner du ferdig JavaScript kode som man kan kopere inn i kode-feltet:
 
-* [Kode](code.js)
+* [Kjøre på linje](code-1.js)
+* [Med lys](code-2.js)
+* [Rygge](code-3.js)
+* [Regnbuekrasj](code-4.js)
