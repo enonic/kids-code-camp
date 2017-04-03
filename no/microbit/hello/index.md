@@ -16,3 +16,11 @@ er trykket.
 Gjør det samme, men bare når man rister på MicroBit'en.
 
 ![Kode](block-3.png)
+
+## Ferdig Kode
+
+Her finner du ferdig JavaScript kode som man kan kopere inn i kode-feltet:
+
+* [Kode 1](code-1.js)
+* [Kode 2](code-2.js)
+* [Kode 3](code-3.js)
