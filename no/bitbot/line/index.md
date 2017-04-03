@@ -13,3 +13,10 @@
 * Blinke med venstre lys når den treffer venstre sensor og omvendt.
 * Prøv å rygge rundt banen.
 * Ved bump - alarm med regnbuefarger.
+
+
+## Ferdig Kode
+
+Her finner du ferdig JavaScript kode som man kan kopere inn i kode-feltet:
+
+* [Kode](code.js)
