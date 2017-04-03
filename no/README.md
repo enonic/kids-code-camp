@@ -32,18 +32,5 @@ Alle deltagere og frivillige på kurset vil få dette til odel og eie.
 
 ## Oppgaver
 
-* Micro:Bit
-  - [Hei](microbit/hello/index.md)
-  - [Kompass](microbit/compass/index.md)
-  - [Myntkast](microbit/coin-toss/index.md)
-  - [Radio](microbit/radio/index.md)
-
-* Bit:Bot
-  - [Bygging](bitbot/assembly.md)
-  - [Oppsett](bitbot/setup.md)
-  - [Motorstyring](bitbot/motor/index.md)
-  - [Linjestyring](bitbot/line/index.md)
-  - Lys ved hastighet...
-  - Følge linje...
-  - Følge lys...
-  - Stoppe ved hinder...
+* [Micro:Bit](microbit)
+* [Bit:Bot](bitbot)
