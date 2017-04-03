@@ -40,7 +40,8 @@ Alle deltagere og frivillige på kurset vil få dette til odel og eie.
 
 * Bit:Bot
   - [Bygging](bitbot/assembly.md)
-  - [Motorstyring](bitbot/motor.md)
+  - [Motorstyring](bitbot/motor/index.md)
+  - [Linjestyring](bitbot/line/index.md)
   - Lys ved hastighet...
   - Følge linje...
   - Følge lys...
