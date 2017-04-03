@@ -13,3 +13,12 @@
 ![Kode](block-5.png)
 ![Kode](block-6.png)
 ![Kode](block-7.png)
+
+
+## Ferdig Kode
+
+Her finner du ferdig JavaScript kode som man kan kopere inn i kode-feltet:
+
+* [Kjøre](code-1.js)
+* [Kjøre med led](code-2.js)
+* [Kjøre med led og lyd](code-3.js)
