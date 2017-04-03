@@ -1,7 +1,8 @@
 # Oppgave: Myntkast
 
-Nå skal vi lage et programm som gjør myntkast. Det er 50% sjanse for å få
-enten firkant eller kryss.
+Nå skal vi lage et program som gir oss enten mynt eller kron når vi
+rister på MicroBit'en. En firkant representerer mynt og ett kryss
+representerer kron.
 
 Først må vi lage en variabel `tall`, deretter sette dette til et tilfeldig
 tall (0 eller 1).
