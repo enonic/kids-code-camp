@@ -22,12 +22,35 @@ For å få til dette må man trykke på tannhjulet og dra `else if` fra den grå
 delen inn på den hvite delen.
 
 ![Kode](block-3.png)
+
+Første betingelsen er `grader < 45`, og da viser vi `N`.
+
 ![Kode](block-4.png)
+
+Andre betingelsen er `grader < 135`. Da viser vi `O` som i øst. `Ø` vil
+ikke vises på MicroBit.
+
 ![Kode](block-5.png)
+
+Den tredje betingelsen er `grader < 225`. Da viser vi `S`.
+
 ![Kode](block-6.png)
+
+Og den siste retningen hvor `grader < 315`.
+
 ![Kode](block-7.png)
+
+Men vi må også tenke på at nord er faktisk over null grader og også over
+315 grader. Derfor må vi skrive ut `N` hvis ingen av de øvrige betingelsene
+holder.
+
 ![Kode](block-8.png)
+
+For å vise det med retninger kan man bruke `show arrow`. Merk at denne ikke
+er oversatt på Norsk.
+
 ![Kode](block-9.png)
+
 
 ## Ferdig Kode
 
