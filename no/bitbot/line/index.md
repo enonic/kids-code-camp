@@ -30,6 +30,8 @@ motor gå forover, mens høyre motor rygger.
 Ved andre tilstand så skal vi svinge til venstre. Høyre motor gå forover,
 mens venstre motor rygger.
 
+![Kode](block-6.png)
+
 
 ## Ekstra oppgaver
 
