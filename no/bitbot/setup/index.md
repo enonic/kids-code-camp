@@ -1,7 +1,15 @@
 # Oppsett
 
-* Bruk denne lenken for å sette opp malen. Alle ekstra ting som trengs.
-  * https://pxt.microbit.org/46446-35294-65098-64772
+Gå til `https://pxt.microbit.org/?lang=no`. Klikk tannhjulet så
+"Legg til pakke...".
 
-* Deretter kan man bytte til Norsk ved hjelp av denne:
-  * https://pxt.microbit.org/?lang=no
+![Screen](screen-1.png)
+
+Deretter skriv inn URL til BitBot pakken `https://github.com/srs/pxt-bitbot`
+i søkefeltet og trykk enter. Klikk så på pakken som kommer opp.
+
+![Screen](screen-2.png)
+
+Etter dette skal man ha to nye valg i blokk-menyen: BitBot og Neopixel.
+
+![Screen](screen-3.png)
