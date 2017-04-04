@@ -1,6 +1,7 @@
-input.onGesture(Gesture.SixG, () => {
+input.onGesture(Gesture.Shake, () => {
     bitbot.neoClear()
-    bitbot.neoShowRainbow()
+    bitbot.neoRainbow()
+    bitbot.neoShow()
     for (let i = 0; i < 30; i++) {
         bitbot.neoShow()
         bitbot.neoRotate()

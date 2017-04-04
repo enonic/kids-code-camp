@@ -21,6 +21,8 @@ Husk at for hver slik operasjon må man kalle "vis lysdioder".
 
 ![Kode](block-4.png)
 
+Til slutt kan man prøve å erstatte "roter lysdioder" med "skift lysdioder"
+for å se hvordan det ser ut.
 
 ## Ferdig Kode
 
