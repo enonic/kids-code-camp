@@ -17,7 +17,7 @@
 
 ## Ferdig Kode
 
-Her finner du ferdig JavaScript kode som man kan kopere inn i kode-feltet:
+Her finner du ferdig JavaScript kode for oppgavene:
 
 * [Kjøre](code-1.js)
 * [Kjøre med led](code-2.js)

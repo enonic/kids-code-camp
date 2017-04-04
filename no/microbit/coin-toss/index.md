@@ -24,6 +24,6 @@ Vis et ikon (kryss) når `tall != 0`.
 
 ## Ferdig Kode
 
-Her finner du ferdig JavaScript kode som man kan kopere inn i kode-feltet:
+Her finner du ferdig JavaScript kode for oppgavene:
 
 * [Kode](code.js)

@@ -54,7 +54,7 @@ er oversatt på Norsk.
 
 ## Ferdig Kode
 
-Her finner du ferdig JavaScript kode som man kan kopere inn i kode-feltet:
+Her finner du ferdig JavaScript kode for oppgavene:
 
 * [Kompass med tekst](code-1.js)
 * [Kompass med piler](code-2.js)

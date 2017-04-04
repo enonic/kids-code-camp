@@ -19,7 +19,7 @@ Gjør det samme, men bare når man rister på MicroBit'en.
 
 ## Ferdig Kode
 
-Her finner du ferdig JavaScript kode som man kan kopere inn i kode-feltet:
+Her finner du ferdig JavaScript kode for oppgavene:
 
 * [Kode 1](code-1.js)
 * [Kode 2](code-2.js)
