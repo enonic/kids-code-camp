@@ -13,7 +13,7 @@ hva som helst.
 
 ![Kode](block-2.png)
 
-Så skriver vi kode for å motta meldinger. Først lager vi en variabel `tekst`
+Så skriver vi kode for å motta meldinger. Først lager vi en variabel `melding`
 som skal inneholde meldingen. For at ikke meldingen skal vises for alle
 så skriver vi ut meldingen tilfeldig.
 
