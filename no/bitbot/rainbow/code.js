@@ -1,4 +1,4 @@
-input.onGesture(Gesture.Shake, () => {
+input.onGesture(Gesture.SixG, () => {
     bitbot.neoClear()
     bitbot.neoRainbow()
     bitbot.neoShow()
