@@ -13,3 +13,4 @@ Sponsors for this event are:
 * [Nordic Semiconductor](http://www.nordicsemi.com/)
 * [Digital Impuls](https://www.digitalimpuls.no/)
 * [Tøyen Cola](http://xn--tyencola-54a.no/)
+* [Bitraf](https://bitraf.no/)
